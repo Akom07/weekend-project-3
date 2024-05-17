@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.b{
+    border: 1px solid black;
+}
+.img-div{
+    height: 5vh;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
