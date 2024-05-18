@@ -29,7 +29,9 @@ object-fit: cover;
     height: 10vh;
     
 }
-.nav{
+.nav {
+    background-image: linear-gradient(90deg, rgba(0, 160, 152, 0.8) 0%, rgba(173, 0, 168, 0.8) 100%);
+    padding-bottom: 5px;
     padding-top: 1.1em;
     position: sticky;
     top: 0px;
@@ -37,6 +39,7 @@ object-fit: cover;
     justify-content: space-around;
     align-items: center;
 }
+
 .nav-right{
     display: flex;
     align-items: center;
