@@ -332,3 +332,9 @@ color: white;
 .mb{
     margin-bottom: 3em;
 }
+.testpage-title{
+    font-size: 1.5em;
+    background-color: #1e008a;
+    color: white;
+    padding: 1.5em 3em;
+}
