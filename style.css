@@ -332,6 +332,7 @@ color: white;
 .mb{
     margin-bottom: 3em;
 }
+
 .sectionAbout{
     height: 40rem;
 
@@ -503,3 +504,11 @@ color: white;
     padding-left: 75%;
     padding-top: 100px;
 }
+
+.testpage-title{
+    font-size: 1.5em;
+    background-color: #1e008a;
+    color: white;
+    padding: 1.5em 3em;
+}
+
