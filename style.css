@@ -463,7 +463,10 @@ color: white;
         flex: 1;
     }
 }
-
+.container{
+    width: 80%;
+    margin-right: 10%;
+}
 
 
 .container2 {
@@ -512,3 +515,12 @@ color: white;
     padding: 1.5em 3em;
 }
 
+.testCenter-subtitle{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
